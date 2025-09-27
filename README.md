@@ -62,6 +62,7 @@ Install Python (version 3.7 or later recommended).
 - Add user accounts for customers.
 
 ## EXAMPLE:
+```
 📚 Welcome to the Library System 📚
 How can I help you today?
 
@@ -90,4 +91,4 @@ Enter book author: James Clear
 3. Search a book by title
 ...
 
-
+```
