@@ -61,4 +61,33 @@ Install Python (version 3.7 or later recommended).
 
 - Add user accounts for customers.
 
+## EXAMPLE:
+📚 Welcome to the Library System 📚
+How can I help you today?
+
+Are you a Librarian or a Customer? librarian
+Enter Librarian Password: ******
+✅ Access granted. Welcome Librarian!
+
+==== Library Menu ====
+1. Add a book
+2. Remove a book
+3. Search a book by title
+4. Search a book by author
+5. Display all books
+6. Check if a book exists (title + author)
+7. Exit
+Enter your choice: 1
+
+Enter unique Book ID: 101
+Enter book title: Atomic Habits
+Enter book author: James Clear
+✅ Book 'Atomic Habits' by James Clear added successfully.
+
+==== Library Menu ====
+1. Add a book
+2. Remove a book
+3. Search a book by title
+...
+
 
